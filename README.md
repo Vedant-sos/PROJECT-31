@@ -1,2 +1,2 @@
-# PROJECT-31
-The aesthetic distribution of balls into various buckets
+# p5.play-boilerplate
+Boiler plate for p5.play
